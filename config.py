@@ -5,5 +5,5 @@
 
 database_path = "/techathon.db"
 SQLALCHEMY_DATABASE_URI = "sqlite://{0}".format(database_path)
-SECRET_KEY = 'takuji@bio.titech.ac.jp'
+SECRET_KEY = 'test'
 SQLALCHEMY_TRACK_MODIFICATIONS = True
